@@ -13,5 +13,7 @@ public class VulnadoApplicationTests {
 	public void contextLoads() {
 	}
 
+	var ATLASSIAN_API_TOKEN = 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
+
 }
 
